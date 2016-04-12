@@ -235,7 +235,7 @@ function create_config( )
     "Lock_Voice",
     "Plugins"
     },
-    sudo_users = {175636120,198794027},--Sudo users
+    sudo_users = {219339258},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
